@@ -14,3 +14,6 @@ Dataset:
 Total: 42000 records of pixels of different images of handwritten digits(0-9). 
 Training set consists of first 70% records. 
 Next 30% records are used for  testing. 
+
+Outputs:
+<img scr="https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output.png" width="200">
