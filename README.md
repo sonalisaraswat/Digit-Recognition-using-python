@@ -16,4 +16,5 @@ Training set consists of first 70% records.
 Next 30% records are used for  testing. 
 
 Outputs:
+<img src = "https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output2.png" width="200">
 <img src="https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output.png" width="200">
