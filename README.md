@@ -19,5 +19,5 @@ Source code in the file named "start.py" of this repository.
 
 Outputs:
 
-<img src = "https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output2.png" width="60%" height ="300">
-<img src="https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output.png" width="200">
+<img src = "https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output2.png" width="60%" height ="200">
+<img src="https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/output.png" width="300">
