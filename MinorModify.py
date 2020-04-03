@@ -41,11 +41,10 @@ arr2 = np.array([x for x in range(0,784,1)])
 for x in range(leng):
     for y in range(bre):
         arr = np.append(arr, (255-data[x][y]))
-print(len(arr))
+        
 combi = np.vstack((arr2,arr))
 np.savetxt('array.csv',combi,delimiter=',', fmt='%d')
 
-print(combi)
 #Predict
 made = pd.read_csv('array.csv').values
 d = made[0]
