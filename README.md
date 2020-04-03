@@ -1,5 +1,6 @@
-# Digit-Recognition-using-python
-A python program for digit recognition
+# Handwritten-Digit-Recognition-using-python
+A python program for handwritten digit recognition.
+
 Programming language used:  
 Python using scikit learn module. 
 
