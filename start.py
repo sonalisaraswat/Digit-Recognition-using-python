@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as pt
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
-data=pd.read_csv("datasets\train.csv").as_matrix()
+data=pd.read_csv("datasets\train.csv").value
 clf=DecisionTreeClassifier()
 
 #training dataset
@@ -12,7 +12,7 @@ train_label=data[0:29000,0]
 clf.fit(xtrain,train_label)
 
 #testing data
-xtest=data[13000:,1:1]
+xtest=data[13000:,1:]
 actual_label=data[13000:,0]
 
 d=xtest[8]
