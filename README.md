@@ -14,6 +14,9 @@ Dataset:
 “Keggle” site used as a source for dataset.
 Total: 42000 records of pixels of different images of handwritten digits(0-9). 
 Training set consists of first 50% records. 
+
+Got to learn converting an excel sheet's entry (pixel values) into an image, also converting an image into and excel sheet entry i.e storing the pixel values. 
+
 Image of a single hand written digit is passed as input.
 
 <img src='https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/aa.jpg' width="60%" height="200">
