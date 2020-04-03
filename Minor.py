@@ -50,4 +50,5 @@ made = pd.read_csv('array.csv').values
 d = made[0]
 d.shape = (28,28)
 pt.imshow(255-d, cmap = 'gray')
+print("The predicted result for the given image is:")
 print(clf.predict([made[0]]))
